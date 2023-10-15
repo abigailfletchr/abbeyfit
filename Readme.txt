@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Official website for AbbeyFit.com
 
 Template Name: ZenBlog
 Template URL: https://bootstrapmade.com/zenblog-bootstrap-blog-template/
